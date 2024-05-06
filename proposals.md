@@ -1,5 +1,9 @@
 # Proposals for Tego DeSci Research
 
+# Types of Projects
+
+We are looking to fund proposals for research and development relating to thyroid disease. Our intention is to fund R&D directed toward inventions and solutions to real problems facing patients. The call for proposals is otherwise open ended.
+
 # Requirements
 
 Proposals should be submitted as issues on GitHub. Proposals should contain th following information.
