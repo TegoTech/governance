@@ -13,3 +13,6 @@ Proposals should be submitted as issues on GitHub. Proposals should contain th f
 3. Milestones and Deliverables
 4. Statement of Importance or Significance
 5. Line Item Budget
+6. Referrences
+
+
