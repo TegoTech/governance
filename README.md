@@ -1,4 +1,4 @@
-# Governance
+# DeSci Governance
 Respository for Tego governance on Ethreum. The software will allow users to vote on and have a voice in resarch and development for solutions to Thyroid disease. Through this governance model, users are empowered to actively participate in discussions, propose initiatives, and vote on matters pertaining to the allocation of resources, thereby ensuring inclusivity, accountability, and alignment with the collective vision and goals of the community.
 
 # Proposals
