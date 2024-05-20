@@ -3,7 +3,7 @@ Respository for Tego governance on Ethreum. The software will allow users to vot
 
 # Proposals
 
-Researchers, entrepreneurs, and inventors can make proposals for funding. To make a proposal, follow the instructions in the [Proposal File](https://github.com/TegoTech/governance/blob/main/proposals.md).
+Researchers, entrepreneurs, and inventors can make proposals for funding. To make a proposal, follow the instructions in the Proposals.md file.
 
 # R&D Voting
 
